@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
+#postgresql://postgres:pozcxyPrLucGLagDMvBjAQypDpdLsQfw@postgres.railway.internal:5432/railway
+
 import os
 import dj_database_url
 
